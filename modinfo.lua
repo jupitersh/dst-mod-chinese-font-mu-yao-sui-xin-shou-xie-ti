@@ -2,7 +2,7 @@ name = "沐瑶随心手写体"
 description = [[
 ]]
 author = "辣椒小皇纸"
-version = "1.1.1"
+version = "1.2.1"
 forumthread = ""
 api_version = 10
 icon_atlas = "modicon.xml"
